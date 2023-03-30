@@ -25,18 +25,18 @@ I’m currently a Senior Analyst at Kapitalo Investimentos, in charge of develop
 
 `r fontawesome::fa("graduation-cap", fill = "#98A08D", a11y = "sem")` **MS in Economics, 2017** </p>
 `r fontawesome::fa("graduation-cap", fill = "#98A08D", a11y = "sem")` **BS in Economics, 2013** </p>
-<p class="custom-filiation">Universidade Federal Fluminense, Brazil</p>
+<p class="custom-filiation">[Universidade Federal Fluminense](https://www.uff.br/), Brazil</p>
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
 ### Experience
 
 `r fontawesome::fa("laptop-code")` **Senior Economic Analyst, 2022-present**</p> 
-<p class="custom-filiation">Kapitalo Investimentos</p>  
+<p class="custom-filiation">[Kapitalo Investimentos](https://www.kapitalo.com.br)</p>  
 
 `r fontawesome::fa("laptop-code")` **Quantitative Researcher, 2019-2022**</p> 
-<p class="custom-filiation">Itau Asset Management</p>
+<p class="custom-filiation">[Itau Asset Management](https://www.itauassetmanagement.com.br/)</p>
 
 `r fontawesome::fa("laptop-code")` **Economic Research Analyst, 2017-2019**</p>
-<p class="custom-filiation">Institute of Research and Statistics of the Federal District</p>
+<p class="custom-filiation">[Institute of Research and Statistics of the Federal District](https://www.ipe.df.gov.br/)</p>
 
