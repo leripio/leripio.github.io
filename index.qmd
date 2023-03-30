@@ -32,13 +32,10 @@ I’m currently a Senior Analyst at Kapitalo Investimentos, in charge of develop
 ### Experience
 
 `r fontawesome::fa("laptop-code")` **Senior Economic Analyst, 2022-present**</p>   
-
 <p class="custom-filiation">Kapitalo Investimentos</p>  
 
 `r fontawesome::fa("laptop-code")` **Quantitative Researcher, 2019-2022**</p>    
 <p class="custom-filiation">Itau Asset Management</p>
 
 `r fontawesome::fa("laptop-code")` **Economic Research Analyst, 2017-2019**</p>    
-
 <p class="custom-filiation">Institute of Research and Statistics of the Federal District</p>
-
