@@ -1,0 +1,11 @@
+/* css styles */
+
+.custom-filiation {
+  @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+  font-family: 'Bree Serif', serif;
+  font-size: 17px;
+  font-weight: bold;
+  line-height: 0;
+  color: #696969;
+  margin-right: 10px;
+}

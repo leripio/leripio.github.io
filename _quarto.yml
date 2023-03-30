@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+website:
+   favicon: images/r_favicon.png
+   navbar:
+    title: false
+    logo: images/logo.png
+    site-url: https://www.rleripio.com
+    left:
+      - href: index.qmd
+        text: Home
+      - book.qmd
+      - talks.qmd
+reader-mode: true
+format:
+  html:
+    page-layout: full
+    theme: litera
+    css: styles.css
+    toc: true

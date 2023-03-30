@@ -1,0 +1,44 @@
+---
+title: "Renato Leripio"
+image: images/headshot2.jpg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 12em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/leripiorenato/
+    - icon: github
+      text: GitHub
+      href: https://github.com/leripio
+    - icon: envelope
+      text: Email
+      href: mailto:leripiorenato@gmail.com
+---
+
+I’m currently a Senior Analyst at Kapitalo Investimentos, in charge of developing tools to improve the accuracy of economic forecasts. I'm also the author of **R for Economic Research**, my first book in which I teach indispensable tools to produce professional economic analyzes using R language. 
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+### Education
+
+`r fontawesome::fa("graduation-cap", fill = "#98A08D", a11y = "sem")` **MS in Economics, 2017** </p>
+`r fontawesome::fa("graduation-cap", fill = "#98A08D", a11y = "sem")` **BS in Economics, 2013** </p>
+<p class="custom-filiation">Universidade Federal Fluminense, Brazil</p>
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+### Experience
+
+`r fontawesome::fa("laptop-code")` **Senior Economic Analyst, 2022-present**</p>   
+
+<p class="custom-filiation">Kapitalo Investimentos</p>  
+
+`r fontawesome::fa("laptop-code")` **Quantitative Researcher, 2019-2022**</p>    
+<p class="custom-filiation">Itau Asset Management</p>
+
+`r fontawesome::fa("laptop-code")` **Economic Research Analyst, 2017-2019**</p>    
+
+<p class="custom-filiation">Institute of Research and Statistics of the Federal District</p>
+
