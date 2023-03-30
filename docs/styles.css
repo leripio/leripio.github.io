@@ -9,3 +9,19 @@
   color: #696969;
   margin-right: 10px;
 }
+
+a:link {
+  @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+  font-family: 'Bree Serif', serif;
+  text-decoration: none;
+  color: #4682B4;
+  font-weight: bold;
+}
+
+a:hover {
+  font-weight: bold;
+  text-decoration: underline;
+  @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+  font-family: 'Bree Serif', serif;
+  color: #B0C4DE;
+}
