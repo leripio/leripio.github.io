@@ -16,7 +16,7 @@ about:
       text: Email
       href: mailto:leripiorenato@gmail.com
 ---
-
+### About
 I’m currently a Senior Analyst at Kapitalo Investimentos, in charge of developing tools to improve the accuracy of economic forecasts. I'm also the author of [R for Economic Research](http://book.rleripio.com), my first book in which I teach indispensable tools to produce professional economic analyzes using R language. 
 
 -----------------------------------------------------------------------------------------------------------------------------------
