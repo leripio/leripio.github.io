@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
+   google-analytics: "G-4HE60YY1JD"
    favicon: images/r_favicon.png
    navbar:
     title: false
