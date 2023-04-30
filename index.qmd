@@ -18,7 +18,7 @@ about:
 ---
 ### About
 
-I’m a Senior Analyst at Kapitalo Investimentos, in charge of developing tools to improve the accuracy of economic forecasts. I'm also currently writing [R for Economic Research](http://book.rleripio.com){target="_blank"}, my first book in which I teach indispensable tools to produce professional economic analyzes using R language. 
+I’m a Senior Analyst at Kapitalo Investimentos, in charge of developing tools to improve the accuracy of economic forecasts. I'm also the author of [R for Economic Research](http://book.rleripio.com){target="_blank"}, my first book in which I teach indispensable tools to produce professional economic analyzes using R language. 
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
