@@ -1,11 +1,14 @@
 ---
-title: "Renato Leripio"
+title: "J. Renato Leripio"
 image: images/headshot2.jpg
 about: 
   template: trestles
   image-shape: round
   image-width: 12em
   links:
+    - icon: amazon
+      text: Book
+      href: https://www.amazon.com/Economic-Research-Essential-economic-analysis-ebook/dp/B0CLQSFSBS/ref=sr_1_1?crid=1MHECS04W37FQ&dib=eyJ2IjoiMSJ9.j_X6ZpOsIIYNyIL70-QkJOylHqQYeZW6rdATwNWsoeLQOTw2Sk_2ID6acuO5HnYH2uL4SQf4sS5P3OWFOnNW1Q5zWKbbUfWz0GvT1Zlq4rXaYm7bAH7uCaA4hrppYbCh_q4QN5d1xFvhhQfh7EmtCVltoVQlNIgqNzdZLxg-hnINZNCnWz3QatCiL0iBpOfGu4Z6tddq2be8S5vgqF9ATVA-xR5sTyX64SYta8caz60.m2sE9U5Kc8M73nl2LjVgpgr-WuCogazt-hfKilvqcMk&dib_tag=se&keywords=r+for+economic+research&qid=1716253408&s=digital-text&sprefix=r+for+economic+re%2Cdigital-text%2C276&sr=1-1
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/leripiorenato/
@@ -18,26 +21,26 @@ about:
 ---
 ### About
 
-I’m a Senior Analyst at Kapitalo Investimentos, in charge of developing tools to improve the accuracy of economic forecasts. I'm also the author of [R for Economic Research](http://book.rleripio.com){target="_blank"}, my first book in which I teach indispensable tools to produce professional economic analyzes using R language. 
+I'm currently leading the Data Science team at Kapitalo Investimentos, responsible for developing tools to improve economic research. I'm also the author of [R for Economic Research](http://book.rleripio.com){target="_blank"}, my first book in which I teach indispensable tools to produce professional economic analyzes using R language. 
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
 ### Education
 
-`r fontawesome::fa("graduation-cap", fill = "#98A08D", a11y = "sem")` **MS in Economics, 2017** </p>
-`r fontawesome::fa("graduation-cap", fill = "#98A08D", a11y = "sem")` **BS in Economics, 2013** </p>
+{{< fa graduation-cap >}} **MS in Economics, 2017** </p>
+{{< fa graduation-cap >}} **BS in Economics, 2013** </p>
 <p class="custom-filiation">[Universidade Federal Fluminense](https://www.uff.br/), Brazil</p>
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
 ### Experience
 
-`r fontawesome::fa("laptop-code")` **Senior Economic Analyst, 2022-present**</p> 
+{{< fa laptop-code >}} **Leading Data Scientist, 2022-present**</p> 
 <p class="custom-filiation">[Kapitalo Investimentos](https://www.kapitalo.com.br)</p>  
 
-`r fontawesome::fa("laptop-code")` **Quantitative Researcher, 2019-2022**</p> 
+{{< fa laptop-code >}} **Quantitative Researcher, 2019-2022**</p> 
 <p class="custom-filiation">[Itau Asset Management](https://www.itauassetmanagement.com.br/)</p>
 
-`r fontawesome::fa("laptop-code")` **Economic Research Analyst, 2017-2019**</p>
+{{< fa laptop-code >}} **Economic Research Analyst, 2017-2019**</p>
 <p class="custom-filiation">[Institute of Research and Statistics of the Federal District](https://www.ipe.df.gov.br/)</p>
 
